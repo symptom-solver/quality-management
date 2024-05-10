@@ -11,7 +11,7 @@
 This document describes the quality management system of the 'Change later' software group. It is based on the ISO 13485 standard which is an international standard for quality management systems for medical devices derived from ISO 9001. The document is intended to be used by all members of the 'Change later' software group.
 
 ## 2. Scope <a name="scope"></a>
-todo
+Manufacturer of medical devices
 
 ## 3. Processes <a name="processes"></a>
 The quality management system of the 'Change later' software group contains the following processes which are described in separate documents 

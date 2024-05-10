@@ -8,3 +8,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Initial version of the QM Manual for the 'Change later' software group
 - Added the first draft of the 1001 - Management of documents process
 - Added the structure of the git repository
+
+## [0.0.2]
+- Define first scope
+- Add first TODOs in the QM team

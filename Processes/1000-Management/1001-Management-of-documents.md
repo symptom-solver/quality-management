@@ -34,3 +34,5 @@ None
 ## Monitoring and control
 The process is monitored by the CEO who is responsible for ensuring that all documents are up to date and that obsolete documents are removed. The CEO reviews the GIT repository regularly to check for new documents or updates to existing documents. If a document is found to be out of date, the CEO will assign a member of the 'Change later' software group to update the document. The CEO also reviews the Table of Contents in the QM Manual to ensure that all documents are listed. If a document is missing from the Table of Contents, the CEO will assign a member of the 'Change later' software group to add the document. 
 Additionally, the CEO monitores, that no changes are made to the master branch without a pull request and review by at least one other member of the 'Change later' software group.
+
+TODO: change regularly to a specific time interval
