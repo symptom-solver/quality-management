@@ -12,3 +12,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [0.0.2]
 - Define first scope
 - Add first TODOs in the QM team
+
+## [0.0.3]
+- Added the first draft of the 1002 - Management review of the quality management system process
+- Continued working on 1001 - Management of documents process
