@@ -19,7 +19,8 @@ The quality management system of the 'Change later' software group contains the 
     * 1001 - Management of documents
     * 1002 - Management review of the quality management system
 * 2000 - Staff
-    * 2001 - Staff qualification
+    * 2001 - Staff qualification established
+    * 2002 - Staff qualification checked
 * 3000 - Planning
     * 3001 - Planning of product realization
 

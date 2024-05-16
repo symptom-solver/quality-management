@@ -16,3 +16,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [0.0.3]
 - Added the first draft of the 1002 - Management review of the quality management system process
 - Continued working on 1001 - Management of documents process
+
+## [0.0.4]
+- Added the first draft of the 2001 - Staff qualification established process
+- Added the first draft of the 2002 - Staff qualification checked process 
+- Extended the QM - Manual 
