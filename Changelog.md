@@ -21,3 +21,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Added the first draft of the 2001 - Staff qualification established process
 - Added the first draft of the 2002 - Staff qualification checked process 
 - Extended the QM - Manual 
+
+## [0.0.5]
+- Added first draft of the 3001 - Planning of prodcut realization
+- Added file to keep track of open questions internal as well as external
