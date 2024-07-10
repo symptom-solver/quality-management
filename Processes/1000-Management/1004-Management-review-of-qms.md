@@ -3,7 +3,7 @@
 ## Process description
 This process is about reviewing the quality management system as a whole. To perform this process one should compare the current system with the regulations and guidelines for systems defined in the ISO 13485.
 Only do this if you are entrusted by the CEO or a supervisor.
-Create a detailed description on the current state of the system and if everything is still in line with the important regulations and guidelines as well as possible problems and steps to solve them.
+Create a detailed description on the current state of the system and if everything is still in line with the important regulations and guidelines as well as possible problems and steps to solve them. Therefore ask every employee of the group how they felt working with the current QMS.
 Report all of those back to the CEO or your supervisor, who may take necessary actions.
 
 ## Process inputs
@@ -18,7 +18,7 @@ CEO
 ## Involved
 
 ## Frequency
-Once a month
+Once a year
 
 ## Interfaces to other processes
 None
