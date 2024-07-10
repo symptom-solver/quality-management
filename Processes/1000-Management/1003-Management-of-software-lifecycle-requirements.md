@@ -21,7 +21,7 @@ The process is successfully finished, once the CEO confirmed or declined the pul
 * CEO
 
 ## Frequency
-* Everytime a new requirement is detected
+* Everytime a new requirement is detected, changed or deleted
 
 ## Interfaces to other processes
 * None
