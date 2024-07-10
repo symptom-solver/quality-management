@@ -25,3 +25,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [0.0.5]
 - Added first draft of the 3001 - Planning of prodcut realization
 - Added file to keep track of open questions internal as well as external
+
+## [0.0.6]
+- Added first draft of the 1003 - Management of software lifecycle requirements
+
+## [0.0.7]
+- Made the repo presentation ready
