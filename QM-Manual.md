@@ -32,3 +32,5 @@ The quality management system of the 'Symptom Solver' software group contains th
     * 1001 -> 1002
 * Staff
     * 2001 -> 2002
+* Planning
+    * 3001 -> 3002
