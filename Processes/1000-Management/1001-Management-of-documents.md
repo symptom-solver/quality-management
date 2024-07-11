@@ -26,7 +26,7 @@ Also, the document needs to be added to the Table of Contents in the QM Manual.
 * New or updated document
 
 ## Responsible
-CEO
+CEO, Author
 
 ## Involved
 All members of the 'Symptom Solver' software group

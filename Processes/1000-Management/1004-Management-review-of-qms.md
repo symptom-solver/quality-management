@@ -13,7 +13,7 @@ Report all of those back to the CEO or your supervisor, who may take necessary a
 * Reviewed QMS and Plan of further actions
 
 ## Responsible
-CEO
+CEO, Member of the Group with delegated power
 
 ## Involved
 

@@ -19,10 +19,10 @@ Before the new appliciant is accepted he must take the Test descriped in Process
 * report of the interview
 
 ## Responsible
-The CEO and a suited member of the group in the role of Supervisor
+CEO, suited member of the group in the role of Supervisor
 
 ## Involved
-three random members of the 'Symptom Solver' Software group
+CEO
 
 ## Frequency
 every time new members apply for a job in the 'Symptom Solver' Software group

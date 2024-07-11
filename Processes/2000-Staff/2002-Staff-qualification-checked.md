@@ -22,7 +22,7 @@ As department supervisor you must always take notes when searching the conversat
 Supervisors and CEO
 
 ## Involved
-All members of the 'Symptom Solver' software group, Deparment Supvervisors, CEO
+All members of the 'Symptom Solver' software group, Department Supvervisors, CEO
 
 ## Frequency
 every quarter
